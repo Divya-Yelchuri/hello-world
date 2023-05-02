@@ -5,3 +5,5 @@ My remote repository Hello-world had already had some data (README.md) file so i
 the command is :
 
 git push -f <remote repository url name> <local repository master>
+
+-f option means to force when used with push it forcefully overrides the data in remote repository with data in loccal repository.
