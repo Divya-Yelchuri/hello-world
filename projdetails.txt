@@ -1,1 +1,7 @@
 This is an example of creating a file in master branch and adding it to remote repository hw.
+
+My remote repository Hello-world had already had some data (README.md) file so it was not synching with my local repository master(master of Projdet) so i had to force push it to see changes of projdetails.txt file in hello-world remote rpository.
+
+the command is :
+
+git push -f <remote repository url name> <local repository master>
