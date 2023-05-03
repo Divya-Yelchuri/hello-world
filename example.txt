@@ -1,1 +1,5 @@
 This is a file created to experiment git fetch command.
+
+Goal : To create a file in remote repo and fetch it from local repo git and merge remote repo file with local repo.
+
+use rebasing : to merge emote master with local repo master.
