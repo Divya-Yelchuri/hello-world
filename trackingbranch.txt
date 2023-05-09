@@ -1,1 +1,5 @@
 Tracking branches are local branches connected to remote branches.
+
+Any push/pull performed on tracking branch will directly push/pull into the conneceted remote branch.
+
+this makes sure u can commit changes to the remote branch many times before merging into remote master.
